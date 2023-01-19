@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FlappyBird
+comment0.text=\r\n\ Flappy\ Bird\!\ A\ bird\ that\ the\ player\ controls\ and\ uses\ his\ flight\ to\ dodge\ \r\n\ tubes\ and\ stay\ alive.\r\n\ \r\n\ @author\ Trevor\r\n\ @version\ January\ 18,\ 2023\r\n
+comment1.params=
+comment1.target=FlappyBird()
+comment2.params=
+comment2.target=void\ rotateFlappyBird()
+comment3.params=
+comment3.target=void\ act()
+numComments=4
